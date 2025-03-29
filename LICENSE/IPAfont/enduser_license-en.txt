@@ -1,0 +1,46 @@
+IPA Font License Agreement for General Users (End User License)
+
+In providing the digital font program (hereinafter referred to as the "Licensed Program") entitled "IPA Font", the Information-Technology Promotion Agency, Japan (hereinafter referred to as "IPA") makes this license agreement (hereinafter referred to as "this Agreement") a condition of the provision of the program.
+
+When a person who has received the Licensed Program (whether it is a primary distribution from IPA or a redistribution from another user, hereinafter referred to as the "Recipient") installs the Licensed Program he or she received on a computer (as defined in Article 1), the person is deemed to have agreed to the contents of this Agreement.
+
+Article 1: Definition of Terms
+
+In this Agreement, the terms listed in the following items shall be as defined in the respective items.
+1. "Derived Program" means a program that has been modified, altered, or modified in part or in whole, or that has been modified by altering a series of tables, including font information such as font names and typesetting information, or that has added, modified, or deleted part or all of the font outline data or bitmap data.
+2. "Original Program" means a digital font, program, or other secondary product that is newly created by extracting character information from part or in whole of the Licensed Program or modifying the extracted character information, without using part or in whole of the Licensed Program as is.
+3. "Digital Content" means a production provided to an end user in digital data format, including video content (video productions such as videos and still images, and programs) and productions that include text, images, figures, etc.
+4. "Digital Document File" means a PDF file or other digital content created by various software, in which part of the Licensed Program is embedded in the characters used in the document file.
+5. "Modification" of the Licensed Program means changing the structure of the font, including creating new characters (external characters) by separating the radicals and radicals of kanji characters, and creating new characters by modifying part of a character.
+6. "Design modification" means adding display effects or making certain modifications to a font without changing the structure of the font, including character decorations (bold, italics, shadows, underlines, hollowing, embossing, etc.) and character transformations in application software.
+7. "Computer" in this Agreement includes servers.
+8. "Reproduction and other uses" means reproduction, transfer, distribution, loan, public transmission, and screening.
+
+Article 2 Grant of License
+IPA grants the recipient a license to use the Licensed Program in all countries in accordance with the terms of this Agreement. However, all rights to the Licensed Program are owned by IPA. This Agreement does not, in any sense, transfer to the Recipient any rights to the Licensed Program held by IPA, or any rights to trademarks, trade names, or service marks.
+
+1. The Recipient may install the Licensed Program on a storage medium and use it on a computer in accordance with the conditions set forth in this Agreement.
+
+2. The Recipient may use the Licensed Program installed on the computer as is, as a character text expression, etc. in printed materials and digital content.
+
+3. The Recipient may process and modify the design of the Licensed Program installed on the computer using other editing software, programs, etc., and use it as a character text expression, etc. in printed materials and digital content.
+
+4. The Recipient may copy and otherwise use the printed materials and digital content created in accordance with the provisions of paragraphs 2 and 3 of this Article, regardless of whether they are for commercial or non-commercial purposes, and regardless of the form of the medium, such as broadcasting, communication, or various recording media.
+
+5. The recipient may embed only the characters (subset characters) used in the digital content to the extent permitted by this Agreement to create a digital document file, and may copy or otherwise use such digital document file. In this case, the recipient is not required to comply with this Agreement. 6. The recipient may redistribute the Licensed Program as is to third parties, whether for commercial or non-commercial purposes, under the name "IPA Font", without making any changes, alterations to the design, or other modifications. However, in such cases, the recipient must attach a copy of this Agreement to the Licensed Program when redistributing it to third parties. 7. The recipient may create derived programs or original programs for personal use and research purposes. Article 3 Restrictions The license granted under the previous article is subject to the following restrictions. 1. The recipient may not redistribute derived programs or original programs, whether for commercial or non-commercial purposes, without the permission of IPA. 2. If the Recipient redistributes the IPA Font in accordance with paragraph 6 of the preceding article, the Recipient may not change the name "IPA Font".
+3. IPA bears no responsibility whatsoever for any derived programs or proprietary programs created by the Recipient.
+4. IPA does not provide any warranty for the Licensed Program, Derived Program, or Proprietary Program, and IPA shall not be liable for any damages incurred by the Recipient as a result of the installation, use, duplication, or other use of the Licensed Program, Derived Program, or Proprietary Program (damages caused by system failures, communication failures, loss or damage of existing data or programs, repair costs, lost profits, claims, damages, and liabilities for infringement of third party rights in connection with the use of these programs, other property damages (including special damages, indirect damages, and consequential damages, etc.), and mental damages, etc.).
+5. IPA shall not respond to technical questions or inquiries, or provide any other user support, regarding the installation, use, duplication, or other use of the Licensed Program, Derived Program, or Proprietary Program.
+Article 4 Termination of the Agreement
+
+1. The effective period of this Agreement is from the time the Recipient receives the Licensed Program until the Recipient uninstalls the Licensed Program from all computers.
+
+2. Notwithstanding the provisions of the preceding paragraph, if the Recipient violates any provision of this Agreement, this Agreement will automatically terminate without any notice, and the Recipient may not thereafter use, copy or otherwise exploit the Licensed Program, Derived Programs or Original Programs. The Recipient shall also be obligated to compensate IPA for any damages incurred by the Recipient as a result of the violation of any provision of this Agreement.
+
+Article 5 Governing Law
+
+1. This Agreement may be amended in the future. In such case, the Recipient may choose either this Agreement or the amended Agreement when using, copying or otherwise exploiting, or redistributing the Licensed Program.
+
+All other provisions not listed above shall be governed by the Copyright Act and related laws.
+
+2. This Agreement shall be interpreted in accordance with the laws of Japan.
