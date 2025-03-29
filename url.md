@@ -6,7 +6,3 @@
 6. [Reggae](http://deb.debian.org/debian/pool/main/f/fonts-reggae/fonts-reggae_1.100.orig.tar.gz)
 7. [yozfont-standard-kana](http://http.us.debian.org/debian/pool/main/f/fonts-yozvox-yozfont/fonts-yozvox-yozfont-standard-kana_14.04-2_all.deb)
 8. [Takao](http://deb.debian.org/debian/pool/main/f/fonts-takao/fonts-takao_00303.01.orig.tar.gz)
-
-
-[Yozvox](https://launchpad.net/ubuntu/+archive/primary/+sourcefiles/fonts-yozvox-yozfont/14.04-2/fonts-yozvox-yozfont_14.04.orig.tar.xz)
-1. [IPAexfont](http://deb.debian.org/debian/pool/main/f/fonts-ipaexfont/fonts-ipaexfont_00401.orig.tar.gz)

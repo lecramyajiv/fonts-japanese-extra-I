@@ -1,3 +1,8 @@
+# Fonts-Japanese-Extra-I
+
+Collection of japanese fonts for Slackware Linux.
+This collection contains the following fonts:
+
 1. Kiloji
     1. Kiloji
     2. Kiloji-B
